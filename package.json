@@ -1,0 +1,17 @@
+{
+  "name": "MobileDefinitionRouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "style-loader": "^0.16.0"
+  }
+}
